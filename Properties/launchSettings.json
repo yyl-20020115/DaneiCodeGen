@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DaneiCodeGen": {
+      "commandName": "Project",
+      "workingDirectory": "$(ProjectDir)"
+    }
+  }
+}
